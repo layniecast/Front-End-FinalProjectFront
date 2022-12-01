@@ -1,17 +1,16 @@
 import React from "react";
 
 function Header() {
-  const currentYear = new Date().getFullYear();
   return (
     <div className="header">
       <header>
-        <h1>Memory Keeper App</h1>
+        <h1>Photo Memory App</h1>
         <ul>
           <li>
             <a href="#">Home</a>
           </li>
           <li>
-            <a href="./publi/index.html">Memory App</a>
+            <a href="/../../public/index.html">Photo Memory App</a>
           </li>
           <li>
             <a href="https://elaynefinalproject.netlify.app/">

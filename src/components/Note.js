@@ -6,7 +6,7 @@ function Note() {
       <h2>Favorite Memory:</h2>
       {/* <p>Details go here:</p> */}
       <form>
-        <textarea id="w3review" name="w3review" rows="4" cols="50">
+        <textarea id="text1" name="text1" rows="4" cols="50">
           Your memory goes here!
         </textarea>
         {/* <input

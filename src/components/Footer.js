@@ -5,8 +5,8 @@ function Footer() {
   return (
     <div className="footer">
       <p>
-        Copyright © {currentYear} by{" "}
-        <a href="https://elaynefinalproject.netlify.app">Laynie</a>{" "}
+        Copyright © {currentYear} by
+        <a href="https://elaynefinalproject.netlify.app"> Laynie</a>{" "}
       </p>
     </div>
   );

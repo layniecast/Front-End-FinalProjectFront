@@ -1,7 +1,4 @@
-// import logo from "./logo.svg";
-// import "./App.css";
 import Header from "./components/Header";
-// import Nav from "./components/Nav";
 import FormInfo from "./components/FormInfo";
 import Form from "./components/Form";
 import Note from "./components/Note";
@@ -13,11 +10,10 @@ function App() {
     <div className="App">
       <Header />
       <div className="appItems">
-        {/* <Nav /> */}
         <FormInfo />
         <Form />
         <Note />
-        <Button type="submit">Submit Here</Button>
+        <Button type="submit">Submit Here!</Button>
         <Footer />
       </div>
     </div>
