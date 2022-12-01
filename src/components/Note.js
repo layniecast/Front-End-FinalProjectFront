@@ -6,7 +6,10 @@ function Note() {
       <h2>Favorite Memory:</h2>
       {/* <p>Details go here:</p> */}
       <form>
-        <input
+        <textarea id="w3review" name="w3review" rows="4" cols="50">
+          Your memory goes here!
+        </textarea>
+        {/* <input
           className="formbox"
           type="text"
           id="name"
@@ -16,7 +19,7 @@ function Note() {
           maxlength="300"
           size="20"
           placeholder="Your memory note goes here:"
-        />
+        /> */}
       </form>
     </div>
   );

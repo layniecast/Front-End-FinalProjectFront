@@ -1,7 +1,7 @@
 // import logo from "./logo.svg";
 // import "./App.css";
 import Header from "./components/Header";
-import Nav from "./components/Nav";
+// import Nav from "./components/Nav";
 import FormInfo from "./components/FormInfo";
 import Form from "./components/Form";
 import Note from "./components/Note";
