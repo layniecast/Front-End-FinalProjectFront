@@ -2,7 +2,7 @@ import Header from "./components/Header";
 import FormInfo from "./components/FormInfo";
 import Form from "./components/Form";
 import Note from "./components/Note";
-import Button from "./components/Button";
+import SubmitButton from "./components/Button";
 import Footer from "./components/Footer";
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
         <FormInfo />
         <Form />
         <Note />
-        <Button type="submit">Submit Here!</Button>
+        <SubmitButton />
         <Footer />
       </div>
     </div>

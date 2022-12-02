@@ -13,7 +13,7 @@ function Form() {
         <input
           type="file"
           id="search-input"
-          accept="image/png, image/jpeg, image/pdf"
+          accept="image/png, image/jpeg, application/pdf"
         />
       </p>
       <p>*Images accepted are png, jpeg, pdf*</p>
