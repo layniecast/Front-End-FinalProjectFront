@@ -9,7 +9,6 @@ function Header() {
           <li>
             <a href="#">Home</a>
           </li>
-
           <li>
             <a href="https://elaynefinalproject.netlify.app/">
               Laynie's Website
